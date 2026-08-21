@@ -6,7 +6,15 @@ Collection of my progress of the project of building an LLM from scratch, follow
 * Byte Pair Encoding
 
 ## Chapter 3:
- * Attention Mechanism
- * Self Attention
- * Causal Attention
- * Multi-Head Attention
+ * Attention mechanism
+ * Self attention
+ * Causal attention
+ * Multi-Head attention
+
+## Chapter 4:
+ * GPT model from scratch
+ * Layer normalization
+ * GELU activations
+ * FFNN
+ * Shortcut connections
+ * Transformer blocks
