@@ -15,6 +15,6 @@ Collection of my progress of the project of building an LLM from scratch, follow
  * GPT model from scratch
  * Layer normalization
  * GELU activations
- * FFNN
+ * Feed forward neural network
  * Shortcut connections
  * Transformer blocks
